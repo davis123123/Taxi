@@ -1,0 +1,116 @@
+current time: 1
+Dispatching taxi RED to location 2 with destination 5
+Planned route: 0 1 2
+current time: 2
+current time: 3
+current time: 4
+current time: 5
+current time: 6
+current time: 7
+current time: 8
+current time: 9
+current time: 10
+current time: 11
+current time: 12
+current time: 13
+current time: 14
+current time: 15
+Taxi RED picking passenger up at 2.
+Planned route: 2 3 4 5
+current time: 16
+current time: 17
+current time: 18
+current time: 19
+current time: 20
+current time: 21
+current time: 22
+current time: 23
+current time: 24
+current time: 25
+current time: 26
+current time: 27
+current time: 28
+current time: 29
+current time: 30
+current time: 31
+current time: 32
+current time: 33
+current time: 34
+current time: 35
+current time: 36
+Taxi RED dropping off passenger at 5.
+current time: 37
+current time: 38
+current time: 39
+current time: 40
+current time: 41
+Dispatching taxi PINK to location 32 with destination 8
+Planned route: 34 27 20 19 26 25 32
+current time: 42
+current time: 43
+current time: 44
+current time: 45
+Dispatching taxi RED to location 13 with destination 5
+Planned route: 5 12 13
+current time: 46
+current time: 47
+current time: 48
+current time: 49
+current time: 50
+current time: 51
+current time: 52
+Taxi PINK picking passenger up at 32.
+Planned route: 32 31 30 29 28 21 14 15 16 9 8
+current time: 53
+current time: 54
+current time: 55
+current time: 56
+current time: 57
+Taxi RED picking passenger up at 13.
+Planned route: 13 6 5
+current time: 58
+current time: 59
+current time: 60
+current time: 61
+current time: 62
+current time: 63
+current time: 64
+current time: 65
+current time: 66
+current time: 67
+current time: 68
+current time: 69
+Taxi RED dropping off passenger at 5.
+current time: 70
+current time: 71
+current time: 72
+current time: 73
+current time: 74
+current time: 75
+current time: 76
+current time: 77
+current time: 78
+current time: 79
+current time: 80
+Taxi PINK dropping off passenger at 8.
+current time: 81
+current time: 82
+current time: 83
+current time: 84
+current time: 85
+current time: 86
+current time: 87
+current time: 88
+current time: 89
+current time: 90
+current time: 91
+current time: 92
+current time: 93
+current time: 94
+current time: 95
+current time: 96
+current time: 97
+current time: 98
+current time: 99
+current time: 100
+current time: 101
